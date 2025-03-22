@@ -1,0 +1,49 @@
+{
+    "// WordPress站点信息": "填写WordPress站点的URL和登录凭证",
+    "wp_url": "https://your-wordpress-site.com",
+    "wp_username": "your_username",
+    "wp_password": "your_password",
+    
+    "// 分类和标签设置": "将根据名称自动获取ID或创建新的分类/标签",
+    "category_names": [
+        "技术",
+        "旅游",
+        "美食",
+        "体育",
+        "健康",
+        "教育",
+        "财经",
+        "娱乐"
+    ],
+    
+    "tag_names": [
+        "热门",
+        "推荐",
+        "最新",
+        "趋势",
+        "经验",
+        "指南",
+        "创新",
+        "分析"
+    ],
+    
+    "// 关键词列表": "要自动发布的文章关键词",
+    "keywords": [
+        "旅游业最新发展",
+        "人工智能应用",
+        "健康饮食指南",
+        "可持续发展趋势",
+        "数字营销策略"
+    ],
+    
+    "// 发布设置": "文章发布间隔时间(秒)",
+    "publish_interval": 30,
+    
+    "// 智普AI设置": "是否启用智普AI进行自动分类",
+    "use_zhipu_ai": true,
+    "zhipu_api_key": "your_api_key.your_secret",
+    
+    "// 图片设置": "特色图片尺寸(可选)",
+    "image_width": 960,
+    "image_height": 540
+}

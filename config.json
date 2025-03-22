@@ -1,0 +1,28 @@
+{
+    "wp_url": "https://coralera.org",
+    "wp_username": "Coralera",
+    "wp_password": "9hyh o09Y ILdw ANXi qVPP af4r",
+    
+    "category_names": [
+        "技术",
+        "旅游",
+        "美食",
+        "最近更新"
+    ],
+    
+    "tag_names": [
+        "热门",
+        "推荐",
+        "最新"
+    ],
+    
+    "keywords": [
+        "最近旅游的好去处",
+        "最新美食推荐"
+    ],
+    
+    "publish_interval": 10,
+    
+    "use_zhipu_ai": true,
+    "zhipu_api_key": "8d403a993bb49c41d23adc94dc62dcb2.dK9co2tjDcKdK1ym"
+}

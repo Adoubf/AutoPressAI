@@ -1,0 +1,12 @@
+# WordPress自动发布工具依赖库
+requests>=2.28.0         # HTTP请求库
+python-dotenv>=0.20.0    # 环境变量管理
+Pillow>=9.0.0            # 图片处理库
+zhipuai>=1.0.7           # 智普AI官方SDK
+pyjwt>=2.6.0             # JWT处理库，智普AI SDK可能需要
+importlib-metadata>=4.8.1 # 导入模块元数据
+urllib3>=1.26.7          # HTTP客户端
+certifi>=2021.10.8       # 证书管理
+chardet>=4.0.0           # 字符编码检测
+idna>=3.3                # 国际化域名支持
+markupsafe>=2.0.1        # 安全字符串处理
