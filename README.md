@@ -18,7 +18,7 @@ AutoPressAI 是一个基于智普AI GLM-4-Flash 模型构建的全自动内容�
 ## 🧱 项目结构
 
 ```
-wordpress_v2/
+AutoPressAI/
 ├── main.py                     # 主入口文件
 ├── config.json                 # 配置文件
 ├── README.md                   # 项目说明文档
