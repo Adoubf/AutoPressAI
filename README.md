@@ -1,5 +1,7 @@
 # WordPress自动发布工具
 
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)[![Platform](https://img.shields.io/badge/Platform-WordPress-blue.svg)](https://wordpress.org/)[![ZhipuAI](https://img.shields.io/badge/ZhipuAI-GLM--4--Flash-brightgreen.svg)](https://open.bigmodel.cn/)[![Stars](https://img.shields.io/github/stars/Adoubf/AutoPressAI?style=social)](https://github.com/Adoubf/AutoPressAI/stargazers)[![Issues](https://img.shields.io/github/issues/Adoubf/AutoPressAI.svg)](https://github.com/Adoubf/AutoPressAI/issues)
+
 这是一个自动化工具，用于获取AI生成的内容并发布到WordPress网站上，支持批量发布、自动分类、图片优化等功能。该项目通过智普AI的GLM-4-flash模型实现内容自动分类和标签分配，提高内容发布效率和准确性。
 
 ## 项目结构
