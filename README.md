@@ -9,6 +9,8 @@
   <a href="https://github.com/Adoubf/AutoPressAI/issues"><img src="https://img.shields.io/github/issues/Adoubf/AutoPressAI.svg"/></a>
   <a href="https://github.com/Adoubf/AutoPressAI/commits/main"><img src="https://img.shields.io/github/last-commit/Adoubf/AutoPressAI.svg" /></a>
 </p>
+
+
 ## 🧠  项目简介
 
 AutoPressAI 是一个基于智普AI GLM-4-Flash 模型构建的全自动内容发布系统，专为 WordPress 平台设计。该工具可自动获取 AI 生成内容，智能识别文章主题，完成分类与标签分配，并支持批量发布与图片格式优化。通过高度自动化的流程，大幅提升内容运营效率与一致性，适用于内容型网站、博客平台与自动内容生成应用场景。
