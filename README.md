@@ -147,4 +147,4 @@ A: 修改`api/external_api.py`文件中的`get_article_content`方法，替换�
 
 ## 许可证
 
-本项目使用MIT许可证 - 详见LICENSE文件
+本项目使用MIT许可证 - 详见[LICENSE](https://github.com/Adoubf/AutoPressAI/blob/v1.0/LICENSE)文件
